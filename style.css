@@ -1,0 +1,29 @@
+.list{
+	list-style-type: none;
+	background-color: yellow;
+	float: right;
+	font-size: 30px;
+	font-family: calibri;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+
+}
+.item{
+	display: block;
+	float: left;
+	background-color: red;
+	margin: 0px;
+	padding: 10px;
+	border: 2px;
+	border-color: black;
+}
+.active{
+	background-color: blue;
+}
+a{
+	text-decoration: none;
+	color: black;
+	display: block;
+	border: 1px orange;
+}
